@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+import sys
+
+nums = [ float(n) for n in sys.stdin ]
+
+print(sum(nums))
+
