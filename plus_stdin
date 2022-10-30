@@ -6,3 +6,5 @@ nums = [ float(n) for n in sys.stdin ]
 
 print(sum(nums))
 
+
+
